@@ -1,0 +1,65 @@
+\documentclass[$fontsize$,$papersize$paper]{article}
+
+\usepackage{graphicx}
+\usepackage{geometry}
+\usepackage{indentfirst}
+\usepackage[final]{microtype}
+\usepackage{needspace}
+\usepackage{adjustbox}
+\usepackage[defaultlines=3,all]{nowidow}
+
+$if(babel-lang)$
+\usepackage[$babel-lang$]{babel}
+$endif$
+
+$if(mainfont)$
+\usepackage{fontspec}
+\setmainfont{$mainfont$}
+$endif$
+
+\geometry{$for(geometry)$$geometry$$sep$,$endfor$}
+
+\setlength{\parindent}{3em}
+\setlength{\parskip}{1em}
+
+% Un peu plus de souplesse pour éviter les dépassements
+\emergencystretch=2em
+\tolerance=2000
+\hbadness=2000
+
+% Autoriser la césure un peu plus volontiers (modéré)
+\hyphenpenalty=200
+\exhyphenpenalty=200
+
+\begin{document}
+
+% Illustration (si définie)
+\begin{center}
+\begin{minipage}[t][4cm][t]{\linewidth}
+$if(illustration)$
+\adjustbox{width=1.2\linewidth,margin=-0.1\linewidth\ 0pt\ 0pt\ 0pt}{%
+  \includegraphics{images/$illustration$}%
+}
+$endif$
+\end{minipage}
+\end{center}
+
+% Titre
+$if(title)$
+\begin{center}
+{\Large\bfseries $title$}
+\end{center}
+\vspace{0.5em}
+$endif$
+
+% Sous-titre (titre alternatif)
+$if(subtitle)$
+\begin{center}
+{\itshape $subtitle$}
+\end{center}
+\vspace{1em}
+$endif$
+
+$body$
+
+\end{document}

@@ -1,0 +1,20 @@
+from: markdown
+pdf-engine: xelatex
+template: template.tex
+filters:
+  - noindent-dialogue.lua
+
+variables:
+  mainfont: "TeX Gyre Pagella"
+  fontsize: 11pt
+  linestretch: 1.15
+  papersize: a5
+  geometry:
+    - twoside
+    - bindingoffset=1cm
+    - inner=1.6cm
+    - outer=1.6cm
+    - top=2.0cm
+    - bottom=2.2cm
+  lang: fr-FR
+  babel-lang: french
