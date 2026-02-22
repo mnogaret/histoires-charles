@@ -7,6 +7,10 @@
 \usepackage{needspace}
 \usepackage{adjustbox}
 \usepackage[defaultlines=3,all]{nowidow}
+\usepackage[hang,flushmargin]{footmisc}
+\usepackage[french]{babel}
+
+\frenchspacing
 
 $if(babel-lang)$
 \usepackage[$babel-lang$]{babel}
@@ -21,6 +25,9 @@ $endif$
 
 \setlength{\parindent}{3em}
 \setlength{\parskip}{1em}
+
+% Indentation des notes de bas de page (via babel)
+\setlength{\parindentFFN}{0.4em}
 
 % Un peu plus de souplesse pour éviter les dépassements
 \emergencystretch=2em

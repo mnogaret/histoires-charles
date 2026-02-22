@@ -1,27 +1,29 @@
 #!/usr/bin/env bash
 set -euo pipefail
 
-# Remplace les espaces ordinaires par des NBSP selon les règles françaises :
-# - après «
-# - avant : ; ? ! »
-#
-# Récursif sur *.md (hors dossiers .git)
+if [[ $# -ne 1 ]]; then
+  echo "Incorrect number of args ($# ≠ 1)"
+  exit
+fi
 
-for f in *.md; do
-  [ -e "$f" ] || continue  # évite l'erreur si aucun .md
+f=$1
 
-  perl -i -pe '
-    use strict;
-    use warnings;
+if [[ ! -e "$f" ]]; then
+  echo "File not found: $f"
+  exit
+fi
 
-    my $nbsp = "\x{00A0}";
+perl -i -pe '
+  use strict;
+  use warnings;
 
-    # 1) Après « : si pas déjà NBSP
-    s/« /« /g;
+  my $nbsp = "\x{00A0}";
 
-    # 2) Avant : ; ? ! » : remplace espaces (y compris NBSP multiples) par NBSP unique
-    s/ ([:;?!»])/ $1/g;
+  # 1) Après « : si pas déjà NBSP
+  s/« /« /g;
 
-  ' "$f"
-  echo "ok: $f"
-done
+  # 2) Avant : ; ? ! » : remplace espaces (y compris NBSP multiples) par NBSP unique
+  s/ ([:;?!»])/ $1/g;
+
+' "$f"
+echo "ok: $f"

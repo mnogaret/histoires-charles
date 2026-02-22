@@ -12,7 +12,11 @@ Le deuxième exercice était le trajet, souvent de plusieurs kilomètres à parc
 
 Que de choses à observer : plantes, arbres, cailloux, de fruits à manger : mûres, fraises des bois, noix, noisettes, nèfles, châtaignes. La faune n’était pas oubliée : trouver un nid de merle, de pie ou de geai, puis surveiller la couvée et enfin prélever un oisillon pour s’en faire un ami, un animal de compagnie, était un exploit — ce qui est maintenant formellement interdit.
 
+<<<<<<< HEAD
 Un matin, avec maman, nous allions à Chaumely chez mémé Marie en passant par le Passadour. Arrivés à la *serbe* (mare) de Verdier, nous fûmes intrigués par un vacarme tapageur provenant d’un charme centenaire. Nous n’en crûmes pas nos yeux : un feu d’artifice de boules de feu qui faisaient du trapèze dans les branches. Plus d’une dizaine d’écureuils roux ou plus foncés se chamaillaient en voltigeant. Certains tapaient sur les plus grosses branches en criant : « *Diaou, diaou* », ce qui semblait être des jurons.
+=======
+Un matin, avec maman, nous allions à Chaumely chez mémé Marie en passant par le Passadour. Arrivés à la *serbe* (mare) de Verdier, nous fûmes intrigués par un vacarme tapageur provenant d’un charme centenaire. Nous n’en crûmes pas nos yeux : un feu d’artifice de boules de feu qui faisaient du trapèze dans les branches. Plus d’une dizaine d’écureuils roux ou plus foncés se chamaillaient en voltigeant. Certains tapaient sur les plus grosses branches en criant : « *Diaou, diaou* », ce qui semblait être des jurons.
+>>>>>>> 6312d94 (Notes de bas de page)
 
 Ce rassemblement était vraiment fantastique ; il était dû au foisonnement des graines du charme. Celles-ci, très petites, formaient des guirlandes très goutteuses. Trois kilomètres restaient à parcourir et nous repartîmes, un peu mélancoliques de quitter un tel spectacle.
 
