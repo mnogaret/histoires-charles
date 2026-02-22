@@ -1,9 +1,6 @@
 ---
 title: "Histoire de chous, sabots"
-<<<<<<< HEAD
-=======
 illustration: "03-53_Histoire_de_chous_sabots.jpg"
->>>>>>> 6312d94 (Notes de bas de page)
 ---
 
 Ces sabots neufs, pieusement conservés par Jean-Louis, fils de l’Antoine, dit le Toine, ont une histoire qui mérite d’être contée.
