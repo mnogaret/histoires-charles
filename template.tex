@@ -32,13 +32,18 @@ $endif$
 \setlength{\spaceskip}{0.33em plus 0.12em minus 0.08em}
 
 % Un peu plus de souplesse pour éviter les dépassements
+\tolerance=1000
 \emergencystretch=2em
-\tolerance=2000
-\hbadness=2000
+%\hbadness=2000
+
+% Espace insécable fine (non extensible)
+\newcommand{~}{\nobreak\hspace{0.16667em}} % ~ 1/6 em
 
 % Autoriser la césure un peu plus volontiers (modéré)
-\hyphenpenalty=200
-\exhyphenpenalty=200
+%\lefthyphenmin=3
+%\righthyphenmin=4
+%\hyphenpenalty=1000
+%\exhyphenpenalty=1000
 
 \begin{document}
 

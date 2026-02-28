@@ -17,12 +17,8 @@ perl -i -pe '
   use strict;
   use warnings;
 
-  my $nbsp = "\x{00A0}";
-
-  # 1) Après « : si pas déjà NBSP
   s/« /« /g;
 
-  # 2) Avant : ; ? ! » : remplace espaces (y compris NBSP multiples) par NBSP unique
   s/ ([:;?!»])/ $1/g;
 
 ' "$f"
