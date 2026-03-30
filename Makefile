@@ -1,6 +1,8 @@
 PANDOC   = pandoc
 DEFAULTS = pandoc.yaml
 
+#SRC_DIR  = generated_md
+#OUT_DIR  = generated_out
 SRC_DIR  = md
 OUT_DIR  = out
 

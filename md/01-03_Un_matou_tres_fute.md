@@ -1,0 +1,24 @@
+---
+title: "Un matou très futé"
+subtitle: "Accusation du chat"
+illustration: "01-03_Un_matou_tres_fute.jpg"
+---
+À la campagne, les rats étaient très friands de céréales. Leur garde-manger se trouvait dans les greniers, les étables, les granges, lieux de réserve de grains. Leur principal prédateur était le chat. Chaque ferme en possédait au moins un. À Rouffiat, dans les Monédières, habitaient mon oncle et ma tante, propriétaires d’un domaine : quelques vaches et un troupeau de moutons qu’ils faisaient paître sur les puys où croissaient bruyères et airelles. À la saison des agneaux, la tante Maria faisait des « caillades de *vouilles* ». C’étaient de petits fromages (un litre et demi de lait de brebis) qui avaient un goût exceptionnel que je n’ai pu retrouver, hélas ! Dans la ferme de l’Escalier, deux individus auraient fait des folies pour déguster ces merveilles : mon cousin Henri, aîné de la fratrie et donc futur propriétaire, et le chat.
+
+Chat était un matou de presque quatre kilos, tigré, la moustache et la queue conquérantes. Chat et Henri étaient inséparables. Qui voyait l’un, savait que l’autre était dans les parages.
+
+Un jour que Maria gardait les *vouilles* (brebis) sur le puys d’Agnoux, nos deux compères descendirent à la cave, lieu de stockage des fromages. Ils étaient enfermés hermétiquement dans un immense garde-manger grillagé afin de les protéger des mouches. En voyant ce trésor, les yeux de Henri se mirent à briller et il demanda à Chat :
+
+« Tu ne mangerais pas un peu de caillade ? »
+
+Chat lui répondit en se frottant langoureusement sur ses jambes. Le sort était jeté ! Henri poussa la targette de la porte, l’ouvrit, passa son bras, choisit une caillade bien ronde et dorée et la mit dans sa poche. Puis il attrapa Chat par le cou et le mit dans la *cheste* (séchoir). Il prit soin de refermer la porte et de tirer la targette. Chat, ravi, se mit à choisir le meilleur fromage et ne fit aucun bruit. Henri sortit de la cave et commença à goûter son larcin. Quel délice !
+
+Dans la grange, sous le tas de foin, il avait creusé une cachette secrète connue seulement de Chat. Par précaution, il enferma le reste de son butin dans une boîte en fer, « biscuits Lu », car il n’avait guère confiance en son ami.
+
+Vers quinze heures, Maria rentra ses moutons à la bergerie et commença à préparer le dîner. C’était l’heure de *meranda* (repas de la mi-journée). Zut ! Il lui manquait du sel ! et si elle demandait à Henri de remplir la salière, il en mettrait partout. Donc, elle tourna le bouton de la lumière et descendit à la cave. Que vit-elle ? Une grosse bête presque noire tournait en rond dans le séchoir ! Vite, elle ouvrit la porte. L’animal jaillit comme une fusée. De peur, Maria n’eut pas le temps de voir. Elle remonta à la cuisine. Henri était assis sur le banc et attendait patiemment la soupe. Maria n’était pas bête, rapidement, elle avait tout compris. Elle se précipita sur son fils, lui empoigna une oreille et le traîna dehors. Henri suivit, sur la pointe des pieds, car sa mère le tirait par le haut. Ils arrivèrent près du *coudert* (enclos) aux cochons où se trouvaient des orties de plus d’un mètre. Maria en arracha une poignée et caressa les jambes nues de son fils. Cris aigus et déchirants ! Les voisins furent pétrifiés et pensèrent que les gens de l’Escalier ne pourraient pas finir de tuer leur cochon avant la nuit. Henri s’enfuit, poursuivi par sa mère, et la seule solution qui lui vint à l’esprit fut de s’asseoir dans l’abreuvoir devant la porte. L’eau glacée calma un peu les brûlures, mais il y sanglota un bon moment.
+
+La fermière appela sa fille et prépara un grand chaudron d’eau salée. Dans la cave, elles lavèrent les caillades et, avec un couteau, réparèrent les dégâts de Chat. Il était resté deux ou trois heures prisonnier ! Avant de remonter, elles s’assurèrent que la porte du séchoir était bien fermée. Ce jour-là, le souper servit de dîner ! La fureur de ma tante, pourtant plutôt patiente, s’expliqua par le fait que, en cette saison, les caillades étaient leur seul revenu. Comment avait-elle pu découvrir si rapidement le coupable ? Dans la maisonnée, c’était Henri le plus futé, mais il avait commis une erreur monumentale ! Dans son souci perfectionniste, il avait refermé la porte du séchoir !
+
+Après avoir trempé un bon moment, Henri s’extirpa de sa baignoire et monta se coucher. Chat, qui avait trouvé refuge sur le *mailla* (tas de gerbes), sortit de sa cachette, la queue en berne, il pénétra dans la cuisine en rasant les murs. Il monta retrouver son ami et se pelotonna sur sa poitrine en ronronnant. Peu après, nos deux chenapans s’endormaient en rêvant de leurs exploits.
+
+Le lendemain, dès qu’ils eurent un moment de libre, ils retrouvèrent leur cachette dans le foin de la grange. Chacun eut droit à une grosse bouchée de caillade, plaisir de gourmandise. Henri avait oublié sa cuisante punition. Ventre affamé n’a pas d’oreilles !
