@@ -1,6 +1,6 @@
 -- noindent-dialogue.lua
 -- Historiquement : Supprimait l'alinéa des paragraphes qui commencent par un cadratin (—) en sortie LaTeX/PDF.
--- Dorénavant : Séfinit un block « dialogue » afin d'appliquer directement les styles depuis le template.
+-- Dorénavant : Définit un block « dialogue » afin d'appliquer directement les styles depuis le template.
 
 -- local function first_str(inlines)
 --  for _, el in ipairs(inlines) do
