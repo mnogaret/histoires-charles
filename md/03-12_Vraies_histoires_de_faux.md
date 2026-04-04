@@ -18,7 +18,7 @@ Pour que la faux coupe comme un rasoir, il faut la battre, l’amincir par forge
 
 La faux est un outil fétiche : elle est entre les mains de la mort dans beaucoup de représentations. Objet relativement cher, elle accompagne le paysan qui la garde toute sa vie. C’est elle qui assure l’alimentation du bétail pendant l’hiver.
 
-Quand Charles eut son certificat d’études, son père Henri l’amena chez le forgeron — mon père — pour lui acheter sa première faux. Au mur de la forge, une série de faux « Diable bleu » était suspendue.
+Quand Charles eut son certificat d’études, son père Henri l’amena chez le forgeron — mon père — pour lui acheter sa première faux. Au mur de la forge, une série de faux « Diable bleu » était suspendue.
 
 Le choix de l’outil obéit à un rite précis : il faut suspendre la faux à l’index et heurter son extrémité contre l’enclume. Le tintement qui en résulte indique l’homogénéité du métal et, par son caractère cristallin, l’aptitude à la coupe. Cette opération durait parfois plus d’une heure, car il fallait toutes les essayer, et parfois même plusieurs fois.
 

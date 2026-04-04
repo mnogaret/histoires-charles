@@ -24,4 +24,4 @@ Quotidiennement, Léon amenait à son locataire de l’eau dans une bassine ains
 
 Les premiers jours, ces aliments disparurent mais peu à peu, il y eut des restes. Au bout de deux ou trois mois, l’assiette resta intacte. Léon décida de libérer son dératiseur en ouvrant une lucarne.
 
-Longtemps, la nuit, venant des châtaigniers entourant la maison, le chat-huant criait des « hou-hou » pour remercier son ami et lui faire oublier ses chatouilles.
+Longtemps, la nuit, venant des châtaigniers entourant la maison, le chat-huant criait des « hou-hou » pour remercier son ami et lui faire oublier ses chatouilles.

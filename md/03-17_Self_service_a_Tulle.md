@@ -10,7 +10,7 @@ La Mariette, brave fermière d’Orliac, était descendue à la foire de Tulle p
 
 Arrivée à la ferme, sans même quitter sa coiffe et son caraco, elle se dépêcha d’enfiler ses acquisitions. Pour le pied gauche, c’était parfait mais impossible d’entrer dans le pied droit ! Catastrophe, le marchand avait dû se tromper, il avait mis deux pieds gauches sur son étalage !
 
-Quelques jours plus tard, Mariette retourna dans la rue Jean Jaurès. Elle entra dans l’immense magasin de chaussures « Passant ». Elle trouva une vendeuse et lui expliqua qu’on lui avait vendu deux souliers du même pied le jour de la dernière foire. La vendeuse l’écouta attentivement et alla s’enfermer dans l’arrière-boutique. Cinq minutes s’écoulèrent et Mariette vit entrer deux policiers dans le magasin. La vendeuse surgit pour expliquer la situation :
+Quelques jours plus tard, Mariette retourna dans la rue Jean Jaurès. Elle entra dans l’immense magasin de chaussures « Passant ». Elle trouva une vendeuse et lui expliqua qu’on lui avait vendu deux souliers du même pied le jour de la dernière foire. La vendeuse l’écouta attentivement et alla s’enfermer dans l’arrière-boutique. Cinq minutes s’écoulèrent et Mariette vit entrer deux policiers dans le magasin. La vendeuse surgit pour expliquer la situation :
 
 « — Vous êtes une voleuse, madame, vous avez chapardé une paire de chaussures ! »
 

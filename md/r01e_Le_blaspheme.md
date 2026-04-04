@@ -4,7 +4,7 @@ subtitle: "Une bêtise de petit garçon (10 ans)"
 illustration: "r01e_Le_blaspheme.jpg"
 ---
 
-Charles, petit écolier d’Orliac-de-Bar, avait une manie. Il n’était heureux que lorsqu’il pouvait se servir de ses bras et de ses jambes pour grimper. Il escaladait les murs, les toits mais surtout les poteaux téléphoniques et bien sûr les arbres. Peut-être que le singe, son ascendant, lui servait d’exemple. Il avait un atout : sa tata Flavie lui avait fait un très beau cadeau : une paire d’espadrilles à semelles de crêpe. Je crois qu’elles venaient d’Amérique !
+Charles, petit écolier d’Orliac-de-Bar, avait une manie. Il n’était heureux que lorsqu’il pouvait se servir de ses bras et de ses jambes pour grimper. Il escaladait les murs, les toits mais surtout les poteaux téléphoniques et bien sûr les arbres. Peut-être que le singe, son ascendant, lui servait d’exemple. Il avait un atout : sa tata Flavie lui avait fait un très beau cadeau : une paire d’espadrilles à semelles de crêpe. Je crois qu’elles venaient d’Amérique !
 
 Ce petit écolier, c’était moi.
 
@@ -18,6 +18,6 @@ Ouf ! Tout le monde était pétrifié mais indemne !
 
 Notre curé décéda trois mois après !
 
-Toute la commune pensait que c’était le Charles de chez le « *faoure* » (forgeron) qui était la cause de sa mort.
+Toute la commune pensait que c’était le Charles de chez le « *faoure* » (forgeron) qui était la cause de sa mort.
 
 Cette croyance allait durer très longtemps à Orliac et, pendant un certain temps, on m’a montré du doigt et j’ai dû raser les murs de la commune !

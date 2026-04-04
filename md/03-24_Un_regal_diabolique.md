@@ -12,11 +12,11 @@ Un jour, elle vient voir ma mère pour lui montrer sa récolte de champignons. C
 
 Maman inspecte les champignons qui étaient pelés et prêts à cuire. Elle lui demande l’endroit de sa récolte.
 
-« Sous les sapins devant la porte, répond la dame. »
+« Sous les sapins devant la porte, répond la dame. »
 
-Ceci inquiète Maman qui lui dit :
+Ceci inquiète Maman qui lui dit :
 
-« Je ne peux pas vous conseiller, car ils sont pelés ; il vaut mieux que nous allions voir s’il en reste. »
+« Je ne peux pas vous conseiller, car ils sont pelés ; il vaut mieux que nous allions voir s’il en reste. »
 
 Les deux femmes vont sur le lieu de récolte et Maman constate que les merveilleux champignons destinés à la dégustation du fils, sont en réalité des amanites tue-mouches.
 
@@ -24,4 +24,4 @@ Il est vrai que ce sont des champignons d’une grande beauté avec leur chapeau
 
 Bien sûr, les champignons sont délicieux, mais parfois trompeurs. Il est sage de les faire identifier par un spécialiste.
 
-Madame Chèze a eu ce réflexe en les montrant à ma mère ; cependant, elle n’aurait pas dû les éplucher, car la couleur est un des signes d’identification.
+Madame Chèze a eu ce réflexe en les montrant à ma mère ; cependant, elle n’aurait pas dû les éplucher, car la couleur est un des signes d’identification.

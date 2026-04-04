@@ -14,6 +14,6 @@ La colère de ma mère lui faisait oublier la langue française. Petit à petit,
 
 « *Agasse* ? *Vige ré* ? » (Regarde ? Tu ne vois rien ?)
 
-Ma mère découvrit, horrifiée, le plus bel élevage de poux de sa vie. Il y en avait des gros, des petits, des blancs, des jaunes et surtout des lentes qui ornaient les cheveux. Pendant le voyage du retour, maman resta muette ; elle envisageait la guerre aux poux. Arrivée à la maison, armée d’une paire de ciseaux, elle expédia une partie de ma chevelure dans le feu du cantou. Puis vint le shampoing au vinaigre. Plus tard, elle acheta de la « Marie Rose ».
+Ma mère découvrit, horrifiée, le plus bel élevage de poux de sa vie. Il y en avait des gros, des petits, des blancs, des jaunes et surtout des lentes qui ornaient les cheveux. Pendant le voyage du retour, maman resta muette ; elle envisageait la guerre aux poux. Arrivée à la maison, armée d’une paire de ciseaux, elle expédia une partie de ma chevelure dans le feu du cantou. Puis vint le shampoing au vinaigre. Plus tard, elle acheta de la « Marie Rose ».
 
 Moi, je n’ai pas oublié cette journée ; commencée assez désagréablement, elle était devenue rapidement plus intéressante. J’avais appris le nom d’un arbre : le cognassier ; celui de son fruit à confiture : le coing. Mais ce qui m’avait vraiment réjoui était de constater que je nourrissais des poux. En effet, j’avais été pendant longtemps le seul enfant à ne pas en posséder, ce qui m’avait poussé à croire que c’était anormal et que je n’étais pas un enfant comme les autres.

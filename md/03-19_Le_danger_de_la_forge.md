@@ -6,7 +6,7 @@ illustration: "03-19_Le_danger_de_la_forge.jpg"
 
 Élie, mon père, faisait son apprentissage de forgeron à Vimbelle chez maître Pinardel. Ce dernier était installé sur la route de Saint Salvadour et sa femme exerçait le métier d’aubergiste. Mon grand-père Charles, également forgeron, avait choisi cet artisan, car il était très compétent et lui-même ne se sentait pas d’enseigner le métier à son fils.
 
-Un matin, Élie était en train de préparer un bigot afin de souder les « *pias* » (dents). L’usure avait arrondi la pointe des dents. Il fallait couper l’extrémité rougie par le feu, sur le tranchet.
+Un matin, Élie était en train de préparer un bigot afin de souder les « *pias* » (dents). L’usure avait arrondi la pointe des dents. Il fallait couper l’extrémité rougie par le feu, sur le tranchet.
 
 Tous les matins, M. Pinardel ouvrait la porte du poulailler pour que les volailles trouvent de quoi se nourrir. Il avait des poules, un coq et une demi-douzaine de canards de Barbarie. Le premier travail de ces volatiles était de visiter la forge, car ils étaient très curieux.
 

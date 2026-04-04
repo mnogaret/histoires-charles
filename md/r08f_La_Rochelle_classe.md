@@ -19,7 +19,7 @@ polochons, nous attend. Heureux, je me sens rajeunir de dix ans ! Même
 scène que celle de mon entrée en sixième au collège Albert Thomas
 d’Égletons.
 
-Le lendemain, passage à l’armurerie. Je reçois un « Mauser » avec
+Le lendemain, passage à l’armurerie. Je reçois un « Mauser » avec
 baïonnette. C’est une arme récupérée aux Allemands lors de leur dernier
 passage en France. Il ne ressemble pas à mon calibre 16 de chasse mais a
 presque le même poids. Mon équipement se termine par un solide
@@ -28,8 +28,8 @@ couvre-chef : un casque en fer datant de la guerre des tranchées de
 
 Maintenant il faut passer à un exercice très sérieux : la marche au pas
 cadencé. Nous sommes réunis en colonne par deux et les aboiements d’un
-gradé donnent la cadence : « Une-deux ! » C’est au bout de quelques minutes
-qu’éclate la colère de notre instructeur : « Allez me chercher des
+gradé donnent la cadence : « Une-deux ! » C’est au bout de quelques minutes
+qu’éclate la colère de notre instructeur : « Allez me chercher des
 balais ! » Il choisit les bons marcheurs qui vont servir de pilotes et
 les accouple à un débutant à l’aide du balai. Ainsi, placés l’un
 derrière l’autre, ils ont le bon rythme. Cet exercice cocasse se
@@ -55,7 +55,7 @@ ramper sous les barbelés à trente centimètres, etc. Il en résulte un mal
 de crâne dû au casque et un treillis déchiré. L’après-midi est moins
 folichon car il faut prendre des notes pour acquérir les notions de
 mécanique des véhicules à moteur. La conduite et les réparations se font
-sur « home-trainer ». Cette pédagogie très élaborée découle d’une
+sur « home-trainer ». Cette pédagogie très élaborée découle d’une
 méthode américaine bien pensée et obtenant des résultats surprenants. En
 moins de trois mois, tout le monde obtient le permis, véhicule léger
 (jeep) et camions de tous genres.
@@ -83,7 +83,7 @@ présent sinon c’était huit jours de cachot, bien mérités vu le
 sacrilège !
 
 Un jeu que j’apprécie le plus est le tir au fusil et au pistolet
-mitrailleur « 24-29 ». Le champ de tir se trouve en bord de mer au sud
+mitrailleur « 24-29 ». Le champ de tir se trouve en bord de mer au sud
 de La Rochelle. Il est constitué d’une dune artificielle où se trouvent
 les cibles, le pas de tir étant à quelques cent mètres dans les terres.
 Au large, à cinq ou six kilomètres, patrouillent des navires de guerre.
@@ -127,7 +127,7 @@ porte préjudice, c’est la taille de mes croquenots : il me faut bourrer
 la pointe avec du papier journal et enfiler deux paires de chaussettes.
 L’examen de fin d’étude a lieu fin février. La partie théorique sous
 forme de copie, la technique véhicule, changement de roue, dépannage,
-sur « home-trainer », l’armement, démontage et remontage du fusil FM
+sur « home-trainer », l’armement, démontage et remontage du fusil FM
 sous une couverture. Puis la dernière étape est une conversation avec le
 lieutenant chef du détachement. Il demande de formuler des observations.
 Pensant que c’est notre dernière rencontre, je me montre intelligent !

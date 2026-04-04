@@ -8,9 +8,9 @@ Une sieste terrifiante
 
 Pascal était un paysan d’Orliac, vivant d’une petite propriété très morcelée et pentue. Avec la Louise, ils avaient élevé une belle famille : deux garçons et deux filles. Il avait survécu à la terrible guerre de 14-18.
 
-À présent, il avait passé la main à sa fille aînée pour la conduite du domaine. Elle avait eu deux filles et trois garçons. Pascal n’avait plus guère de responsabilités et il passait son temps à « *étranuger* », c’est-à-dire à extirper la « *tranuge* » de ses petits champs caillouteux et pentus.
+À présent, il avait passé la main à sa fille aînée pour la conduite du domaine. Elle avait eu deux filles et trois garçons. Pascal n’avait plus guère de responsabilités et il passait son temps à « *étranuger* », c’est-à-dire à extirper la « *tranuge* » de ses petits champs caillouteux et pentus.
 
-La « *tranuge* » est le chiendent, plante très répandue à Orliac où elle pousse à une vitesse incroyable. C’est une graminée possédant de très grandes racines, ennemies des cultures. Elle pouvait être utilisée pour fabriquer des brosses et possédait des vertus apéritives et diurétiques.
+La « *tranuge* » est le chiendent, plante très répandue à Orliac où elle pousse à une vitesse incroyable. C’est une graminée possédant de très grandes racines, ennemies des cultures. Elle pouvait être utilisée pour fabriquer des brosses et possédait des vertus apéritives et diurétiques.
 
 Pascal ignorait toutes ses utilisations et mettait les plantes en tas, puis il allumait le feu : quel gâchis !
 
@@ -18,7 +18,7 @@ Ce jeudi-là, après avoir pioché le champ de Sainte-Hélène toute la matinée
 
 Pendant une veillée, le grand-père avait raconté, en patois, sa vie dans les tranchées de Verdun et surtout l’attaque allemande au mortier qui avait embrasé leur cantonnement et brûlé de nombreux camarades.
 
-Un vieux journal traînait sous l’*archabanc*. Il fut jeté dans le feu. Aussitôt, s’éleva une grande flamme qui illumina le cantou. Un des garnements cria : « Au feu ! » et se précipita dehors suivi de ses deux frères.
+Un vieux journal traînait sous l’*archabanc*. Il fut jeté dans le feu. Aussitôt, s’éleva une grande flamme qui illumina le cantou. Un des garnements cria : « Au feu ! » et se précipita dehors suivi de ses deux frères.
 
 Réveillé en sursaut et se croyant entouré de flammes, Pascal revit le massacre de la tranchée de Verdun. Il jaillit du banc et enfila ses sabots du même mouvement. Hélas ! La brûlure de ses orteils le stoppa net. Il devint fou et se mit à poursuivre pieds nus ces chenapans de petits-enfants. Ces derniers ne l’avaient pas attendu et restèrent cachés tout l’après-midi dans le foin de la grange.
 
@@ -26,7 +26,7 @@ Vers dix-neuf heures, j’entendis des cris très aigus provenant du bourg d’O
 
 Les cris avaient une telle amplitude que leur origine faisait penser à un chœur à plusieurs voix.
 
-J’imaginais la scène : Pascal muni d’un « *ramailla* » (branche) pourchassant les trois polissons à travers la cuisine. Ceux qui poussaient les cris les plus aigus devaient être les spectateurs. Le coupable dut courir très vite pour éviter les coups.
+J’imaginais la scène : Pascal muni d’un « *ramailla* » (branche) pourchassant les trois polissons à travers la cuisine. Ceux qui poussaient les cris les plus aigus devaient être les spectateurs. Le coupable dut courir très vite pour éviter les coups.
 
 Bientôt, le silence revint. Les gamins s’étaient certainement réfugiés et barricadés dans leur chambre.
 

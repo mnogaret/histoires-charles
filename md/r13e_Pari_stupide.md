@@ -15,7 +15,7 @@ Maman se mit à pleurer, l’entretien était terminé. Je ne pensai pas qu’el
 
 « Tiens, lui dis-je, je parie que j’aurai fini les épreuves avant toi ! »
 
-Nous topâmes et le vainqueur aurait droit à une « sèche », cigarette. Les examens se déroulèrent tout au long de la journée et curieusement je n’éprouvai aucune difficulté à répondre à toutes les questions. Bien sûr, je sortis le premier de la salle. J’en fus fier et reçus ma récompense des mains de Roger.
+Nous topâmes et le vainqueur aurait droit à une « sèche », cigarette. Les examens se déroulèrent tout au long de la journée et curieusement je n’éprouvai aucune difficulté à répondre à toutes les questions. Bien sûr, je sortis le premier de la salle. J’en fus fier et reçus ma récompense des mains de Roger.
 
 Dans le mois qui suivit, ma mère m’informa par lettre que j’étais reçu et même en bonne place : neuvième sur trente ! Mon ami Roger fut admis également.
 

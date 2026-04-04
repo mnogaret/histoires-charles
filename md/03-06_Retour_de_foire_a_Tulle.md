@@ -4,7 +4,7 @@ subtitle: "Fatigue de cycliste"
 illustration: "03-06_Retour_de_foire_a_Tulle.jpg"
 ---
 
-Léonard dit « Ionard » était un très modeste paysan du village de Croussac.
+Léonard dit « Ionard » était un très modeste paysan du village de Croussac.
 
 Il était célibataire et vivait avec sa mère Julienne et sa sœur Émilie dite « Millissou ». Malgré notre différence d’âge, je le considérais comme un ami. Il savait faire beaucoup de choses, en particulier en vannerie. Les paniers qu’il fabriquait étaient de forme harmonieuse. Il utilisait des pousses de châtaignier pour l’armature et, pour le tressage, il réalisait des clisses soit de noisetier, couleur verte, soit de *pudiin*^[bourdaine] rouge, soit de châtaignier pour le blanc. Ces lanières étaient fines, cinq millimètres, très régulières. Leur assemblage devenait une perfection visuelle. Les fermiers d’Orliac étaient à ses genoux pour obtenir un de ses paniers, capables de mettre en valeur leurs marchandises lors des foires de Tulle. Léonard était très serviable mais il lui fallait du temps pour fabriquer ses merveilles.
 

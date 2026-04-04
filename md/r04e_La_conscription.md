@@ -4,7 +4,7 @@ title: "La conscription"
 illustration: "r04e_La_conscription.jpg"
 ---
 
-Après la Révolution, la France, ayant besoin de soldats en 1797, créa un recrutement ; puis, en l’an VI, 1812, Napoléon le perfectionna. C’était la conscription. À vingt ans, tous les jeunes hommes de la nation devaient tirer un numéro. Le bon numéro était celui qui exemptait du service militaire. Le mauvais donnait droit à sept ans de voyages et de guerres. Cependant, celui qui était riche pouvait payer un remplaçant.
+Après la Révolution, la France, ayant besoin de soldats en 1797, créa un recrutement ; puis, en l’an VI, 1812, Napoléon le perfectionna. C’était la conscription. À vingt ans, tous les jeunes hommes de la nation devaient tirer un numéro. Le bon numéro était celui qui exemptait du service militaire. Le mauvais donnait droit à sept ans de voyages et de guerres. Cependant, celui qui était riche pouvait payer un remplaçant.
 
 Vers 1910, ce système fut remplacé par le service national. Tous les jeunes gens valides devaient effectuer le service militaire dont la durée variait selon les besoins : de douze mois à vingt-sept mois pendant la guerre d’Algérie. C’est Jacques Chirac qui l’abolit en 1982.
 
