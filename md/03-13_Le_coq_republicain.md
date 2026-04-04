@@ -12,8 +12,11 @@ Un jour, le fontainier, dit le Poilu, se rend au domicile de son ami Ritou, plâ
 
 Ce jour-là, Ritou n’est pas encore parti au travail et le Poilu peut lui soumettre son problème :
 
-« Tu sais, si ça continue, je vais tomber malade ! Je ne dors plus, je ne mange plus, je suis très énervé, ça ne peut plus durer ! Je vais devenir maboul ! Je ne peux pas l’attraper, c’est impossible ! Il court trop vite ! Si tu pouvais m’aider, d’un coup de fusil !  
+::: dialogue
+« Tu sais, si ça continue, je vais tomber malade ! Je ne dors plus, je ne mange plus, je suis très énervé, ça ne peut plus durer ! Je vais devenir maboul ! Je ne peux pas l’attraper, c’est impossible ! Il court trop vite ! Si tu pouvais m’aider, d’un coup de fusil !
+
 – Pas de problème ! » dit Ritou en décrochant son fusil et en prenant deux cartouches de six.
+:::
 
 Ils enfourchent leur vélo, mais avant de monter aux Fontaines, il faut aller saluer leur copain, marchand de vin, Castagnier. Son chais est leur PC. Il a un fût de Beaujolais en perce et c’est du bon ! Un petit canon ne peut que les aider à grimper la côte de l’avenue de Paris. Ensuite, ils arrivent chez le Poilu et descendent à la volière.
 

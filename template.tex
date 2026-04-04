@@ -23,7 +23,7 @@ $endif$
 
 \geometry{$for(geometry)$$geometry$$sep$,$endfor$}
 
-\setlength{\parindent}{3em}
+\setlength{\parindent}{2em}
 \setlength{\parskip}{1em}
 
 % Indentation des notes de bas de page (via babel)
@@ -47,6 +47,16 @@ $endif$
 
 \providecommand{\tightlist}{%
   \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+\newenvironment{dialogue}
+{
+  \vspace{1em}
+  \begingroup
+  \setlength{\parskip}{0pt}
+}
+{
+  \endgroup
+}
 
 \begin{document}
 
